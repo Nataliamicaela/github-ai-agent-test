@@ -1,0 +1,1 @@
+Este archivo fue creado mediante el agente MCP de GitHub.
